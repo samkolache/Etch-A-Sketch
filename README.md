@@ -18,6 +18,6 @@ I developed this project as part of my studies through The Odin Project. The web
 Link to site: https://samkolache.github.io/Etch-A-Sketch/
 
 ### User Instructions
-1. User loads onto the page and inputs their custom grid size(2X2-100X100 only)
-2. Once the grid appears, the user can select B&W or RGB to color the grid by hovering over the selection
-3. User can select an eraser or clear the grid completely as well
+    1. User loads onto the page and inputs their custom grid size(2X2-100X100 only)
+    2. Once the grid appears, the user can select B&W or RGB to color the grid by hovering over the selection
+    3. User can select an eraser or clear the grid completely as well
